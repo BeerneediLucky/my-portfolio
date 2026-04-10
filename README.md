@@ -49,6 +49,3 @@ A professional, high-performance developer portfolio built with React, Vite, and
    npm run dev
    ```
 
-## 📜 License
-
-This project is licensed under the MIT License.
