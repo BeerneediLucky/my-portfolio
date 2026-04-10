@@ -47,7 +47,7 @@ const About = () => (
 
             {/* 👉 OPTION 1: PUBLIC FOLDER */}
             <img
-              src="/public\lucky.JPG" // 🔥 replace with your image
+              src="/lucky.JPG" // 🔥 Updated path for deployment
               alt="Lucky"
               className="w-full h-full object-cover rounded-3xl transition-transform duration-500 group-hover:scale-105"
             />
