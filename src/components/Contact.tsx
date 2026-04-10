@@ -18,7 +18,7 @@ const Contact = () => {
     e.preventDefault();
     
     // Construct the WhatsApp message
-    const phoneNumber = "919059714851"; // Replace with your number
+    const phoneNumber = "917207231018"; // Updated with your actual number
     const message = `*New Contact Form Submission*%0A%0A*Name:* ${form.name}%0A*Email:* ${form.email}%0A*Message:* ${form.message}`;
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
     
